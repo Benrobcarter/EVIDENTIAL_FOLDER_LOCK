@@ -1,0 +1,58 @@
+{
+  "id": "EX_FRINGE_SOLICITOR_PLI_COMPLAINT_2025",
+  "title": "Solicitor Letter – Safeguarding Complaint and Failure to Respond (PLI for Half a Camel)",
+  "date": "2025-05-07",
+  "participants": [
+    "Ben Carter",
+    "Alice Wright",
+    "Brighton Fringe Team",
+    "Solicitor"
+  ],
+  "source_file": "Gmail - PLI for Half a Camel.pdf",
+  "core_quotes": [
+    "Brighton Fringe Ltd. failed to appoint a safeguarding lead or trained representative when engaging him.",
+    "Brighton Fringe Ltd. failed to respond to a direct and emotionally significant message from a declared vulnerable individual.",
+    "This silence has had a material and damaging impact on his mental health.",
+    "We are preparing formal documentation for review and escalation. Mr. Carter will reserve the right to pursue legal, civil, and regulatory action."
+  ],
+  "emotional_tags": [
+    "distress",
+    "vulnerability",
+    "abandonment",
+    "relief"
+  ],
+  "vex_tags": [
+    "solicitor_formal_notice",
+    "failure_to_escalate",
+    "safeguarding_lead_absent",
+    "support_outsourced_to_subcontractor",
+    "empathy_misused"
+  ],
+  "policy_reference": [
+    {
+      "policy": "Brighton Fringe Safeguarding Policy",
+      "review_date": "2025-02-17",
+      "sections": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "policy": "Care Act 2014, Section 42"
+    },
+    {
+      "policy": "Health and Social Care Act 2008, Reg. 13"
+    }
+  ],
+  "status": "active",
+  "proof_needed": [
+    "Written Board/DSO response",
+    "Assignment of safeguarding lead",
+    "Internal logs of follow-up"
+  ],
+  "notes": "Formal legal complaint, professional advocate support, organizational non-response and subcontracting safeguarding support."
+}

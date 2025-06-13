@@ -1,0 +1,46 @@
+{
+  "id": "CHAPTER_1_JULY_DISMISSAL",
+  "title": "The Initial Report and Dismissal",
+  "narrative_block_1": {
+    "text": "In July 2024, a formal report of stalking and harassment was made to Sussex Police, supported by a vital audio recording of a threatening phone call with Alanna O'Hare. This was the first official disclosure of the risk.",
+    "sceptic_questions": [
+      {
+        "button_text": "What was the police response?",
+        "answer_id": "RESPONSE_DISMISSAL"
+      },
+      {
+        "button_text": "What was the specific evidence of harassment?",
+        "answer_id": "RESPONSE_CALL_LOGS"
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": "RESPONSE_DISMISSAL",
+      "text": "PC Gore of Sussex Police responded via text message on July 25, 2024, stating the matter would be 'filed' as there was 'not enough to run an investigation based on the information that has been provided.' He concluded that 'currently, there is no offence.'",
+      "evidencePackage": [
+        {
+          "type": "quote",
+          "content": "Ben you cannot change the outcome of what has been decided we will not be investigating the matter further.",
+          "targetModuleId": "exhibit-quote-box"
+        },
+        {
+          "type": "pdf",
+          "url": "https://home.army.mil/monterey/download_file/view/5d9fa945-82ab-43f3-b8d2-6ea56698e4bd/645",
+          "targetModuleId": "exhibit-document-viewer"
+        }
+      ]
+    },
+    {
+      "id": "RESPONSE_CALL_LOGS",
+      "text": "At the time of the dismissal, PC Gore was shown screenshots of a phone call log demonstrating repeated, unwanted contact from Alanna (under the nickname 'Adam Lallana') on the preceding Saturday, Sunday, and Monday. This evidence of persistent contact was allegedly ignored.",
+      "evidencePackage": [
+        {
+          "type": "image",
+          "url": "https://www.etsy.com/listing/699521030/printable-phone-call-message-log-pdf",
+          "targetModuleId": "exhibit-image-viewer"
+        }
+      ]
+    }
+  ]
+}

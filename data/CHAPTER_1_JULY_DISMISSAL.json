@@ -1,0 +1,45 @@
+{
+  "id": "CHAPTER_1_JULY_DISMISSAL",
+  "narrative_block_1": {
+    "text": "In July 2024, a formal report of stalking and harassment was made to Sussex Police, supported by a vital audio recording of a threatening phone call with Alanna O'Hare. This was the first official disclosure of the risk.",
+    "sceptic_questions": [
+      {
+        "button_text": "What was the police response?",
+        "answer_id": "RESPONSE_DISMISSAL"
+      },
+      {
+        "button_text": "What was the specific evidence of harassment?",
+        "answer_id": "RESPONSE_CALL_LOGS"
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": "RESPONSE_DISMISSAL",
+      "text": "PC Gore of Sussex Police responded via text message on July 25, 2024, stating the matter would be 'filed' as there was 'not enough to run an investigation based on the information that has been provided.' He concluded that 'currently, there is no offence.'",
+      "evidencePackage": [
+        {
+          "type": "quote",
+          "content": "Ben you cannot change the outcome of what has been decided we will not be investigating the matter further.",
+          "targetModuleId": "exhibit-quote-box"
+        },
+        {
+          "type": "pdf",
+          "url": "https://cnb.ixy.mybluehost.me/website_14b16124/wp-content/uploads/2025/06/01_TEXT_PC_GORE_DISMISSAL_NO_HARASSMENT_2024-07-25.pdf",
+          "targetModuleId": "exhibit-document-viewer"
+        }
+      ]
+    },
+    {
+      "id": "RESPONSE_CALL_LOGS",
+      "text": "At the time of the dismissal, PC Gore was shown screenshots of a phone call log demonstrating repeated, unwanted contact from Alanna (under the nickname 'Adam Lallana') on the preceding Saturday, Sunday, and Monday. This evidence of persistent contact was allegedly ignored.",
+      "evidencePackage": [
+        {
+          "type": "image",
+          "url": "https://cnb.ixy.mybluehost.me/website_14b16124/wp-content/uploads/2025/06/06_FULL_CALL_LOG_SCREENSHOT_ADAM_LALLANA_2024-07-25-1.pdf",
+          "targetModuleId": "exhibit-image-viewer"
+        }
+      ]
+    }
+  ]
+}

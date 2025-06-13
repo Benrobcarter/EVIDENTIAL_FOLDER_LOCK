@@ -1,0 +1,39 @@
+{
+  "id": "ALANNA_THIRD_CALL_05-22",
+  "sourceFile": "ALANNA_THIRD_CALL_22-05-24_02-54_otter_ai.txt",
+  "title": "Third Call with Alanna: Police Notification and Retaliatory Threats",
+  "date": "2024-05-22",
+  "summary": "A recorded phone call where Ben Carter informs Alanna O'Hare that he has involved the police and her continued calls constitute a police matter. In response, Alanna confirms she has made a report to HMRC regarding alleged tax evasion as a direct result of the conflict, stating 'you push me to this'. She also denies having fully submitted a previous report, contradicting earlier evidence.",
+  "quotes": [
+    {
+      "quote": "I've called the police.",
+      "source": "ALANNA_THIRD_CALL_22-05-24_02-54_otter_ai.txt [0:56]"
+    },
+    {
+      "quote": "I put that all in my report today... that it's been at least five or six years that you've been avoiding tax.",
+      "source": "ALANNA_THIRD_CALL_22-05-24_02-54_otter_ai.txt [9:28]"
+    },
+    {
+      "quote": "I didn't press Submit. and that why i was so shocked",
+      "source": "ALANNA_THIRD_CALL_22-05-24_02-54_otter_ai.txt [10:16]"
+    },
+    {
+      "quote": "you push me to this. With this all Police bullshit.",
+      "source": "ALANNA_THIRD_CALL_22-05-24_02-54_otter_ai.txt [9:57]"
+    }
+  ],
+  "accessLevel": "private",
+  "vex_tags": ["police_notification", "threat_confirmation", "hmrc_threat", "admission", "evidence_contradiction"],
+  "displayPackage": [
+    {
+      "evidenceFileUrl": "#LINK_TO_AUDIO_FILE",
+      "evidenceType": "audio",
+      "targetModuleId": "exhibit-audio"
+    },
+    {
+      "evidenceFileUrl": "#LINK_TO_TRANSCRIPT_PDF",
+      "evidenceType": "pdf",
+      "targetModuleId": "exhibit-document"
+    }
+  ]
+}

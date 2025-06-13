@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PCG_DISMISSAL_0725",
+    "sourceFile": "pc_gore_dismissal_and_threats.json",
+    "summary": "On July 25, 2024, Ben Carter provides PC Gore with evidence of ongoing harassment, including call logs. PC Gore dismisses the claims, stating 'currently, there is no offence' and advises seeking a civil order. He deflects responsibility by stating Ben 'cannot change the outcome of what has been decided.'",
+    "quotes": [
+      {
+        "quote": "She's carried on. What amount constitutes harrasment?",
+        "source": "04_PC_GORE_FINAL_DISMISSAL_CALL_LOG_PROOF_2024-07-25.pdf"
+      },
+      {
+        "quote": "Ben you cannot change the outcome of what has been decided we will not be investigating the matter further.",
+        "source": "04_PC_GORE_FINAL_DISMISSAL_CALL_LOG_PROOF_2024-07-25.pdf"
+      },
+      {
+        "quote": "From the messages I have seen and another officer has reviewed it and no threats were seen.",
+        "source": "05_CALL_LOG_SCREENSHOT_POLICE_GASLIGHTING_2024-07-25.pdf"
+      }
+    ],
+    "accessLevel": "private"
+  },
+  {
+    "id": "ALANNA_THREATS_0726",
+    "sourceFile": "pc_gore_dismissal_and_threats.json",
+    "summary": "Immediately following the police dismissal on July 26, 2024, Alanna sends emails confirming she is carrying out her threats. She admits to contacting Ben's solicitors (Cordell & Co) and makes further abusive statements, which were then forwarded to PC Gore as proof.",
+    "quotes": [
+      {
+        "quote": "Spoke to Cordells office this morning so I'm guessing they will be in touch. Hell hath no fury like a woman scorned.",
+        "source": "08_ALANNA_THREAT_EMAILS_AFTER_CALL_2024-07-26.pdf"
+      },
+      {
+        "quote": "You brought on this on yourself, it was always going to come out. I guess I just sped up the process a bit.",
+        "source": "08_ALANNA_THREAT_EMAILS_AFTER_CALL_2024-07-26.pdf"
+      },
+      {
+        "quote": "You are a fucking drug addict. Tax avoider. And fat shit. Fuck you for making me feel like the gaslighter you are. I'll be calling cordell to tell them your claim is bullshit. And hmrc",
+        "source": "10_ZOOMED_THREAT_MESSAGE_SCREENSHOT_PART2_PC_GORE_2024-07-26.pdf"
+      }
+    ],
+    "accessLevel": "private"
+  }
+]

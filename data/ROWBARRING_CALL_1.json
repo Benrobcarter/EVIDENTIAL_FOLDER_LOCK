@@ -1,0 +1,39 @@
+{
+  "id": "CROWBARRING_CALL_1",
+  "sourceFile": "crowbarring 1st call_otter_ai.txt",
+  "title": "Crowbarring Justice: First 101 Call Highlighting Lost Evidence & Timeline Manipulation",
+  "date": "[DATE_OF_CALL_TO_BE_CONFIRMED]",
+  "summary": "A recorded 101 call where Ben Carter confronts Sussex Police about missing evidence (voicemails submitted via NICE link) and the manipulation of the case timeline to exclude events prior to November. Ben articulates his belief that there is a 'big cover up' between West and East Sussex forces and puts them on notice of an IOPC complaint.",
+  "quotes": [
+    {
+      "quote": "I found out that my police Officer dealing with a harassment case has been basically moving the goal posts around to cover up the fact that it wasn't, i...",
+      "source": "crowbarring 1st call_otter_ai.txt"
+    },
+    {
+      "quote": "what they're doing is they're getting me to provide it now so they can say that I didn't provide it originally.",
+      "source": "21_06_24_THE_JULY_CALL_1-5_otter_ai.txt"
+    },
+    {
+      "quote": "So between them, there's a big cover up, because this is like the fact that it now results, results in suicide they which they installed into me. The police killed me.",
+      "source": "21_06_24_THE_JULY_CALL_1-5_otter_ai.txt"
+    },
+    {
+      "quote": "It sounds like you need to get to that agency you said to raise this IPOS",
+      "source": "21_06_24_THE_JULY_CALL_1-5_otter_ai.txt"
+    }
+  ],
+  "accessLevel": "private",
+  "vex_tags": ["lost_evidence", "timeline_manipulation", "SAR_suppression", "safeguarding_failure", "IOPC_escalation", "police_misconduct"],
+  "displayPackage": [
+    {
+      "evidenceFileUrl": "#LINK_TO_AUDIO_FILE",
+      "evidenceType": "audio",
+      "targetModuleId": "exhibit-audio"
+    },
+    {
+      "evidenceFileUrl": "#LINK_TO_TRANSCRIPT_PDF",
+      "evidenceType": "pdf",
+      "targetModuleId": "exhibit-document"
+    }
+  ]
+}

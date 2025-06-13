@@ -1,0 +1,33 @@
+[
+  {
+    "id": "APRIL_6_HOSPITAL_DISCLOSURE",
+    "sourceFile": "medical_and_safeguarding.json",
+    "summary": "Covers the intentional overdose on April 6, 2025, and the subsequent GP consultation on April 10. The hospital discharge summary confirms the overdose details and suicidal intent linked to stalking. The GP transcript reveals the victim's realization of being 'gaslit' by Sussex Police, who allegedly ignored the suicide event and focused on the victim's mental health to cover up their failure to investigate.",
+    "quotes": [
+      {
+        "quote": "Intentional OD of Methyphenidate 360mg and Diazepam 100mg at 6am this morning, took with intent to end his life.",
+        "source": "Released from Hospital.pdf"
+      },
+      {
+        "quote": "Still suicidal, says he is being stalked by his ex-partner, says it has been happening for the past year and he has reported to police.",
+        "source": "Released from Hospital.pdf"
+      },
+      {
+        "quote": "I've now seen that I've been gaslit by Sussex police into feeling like that, to cover up that This should have been investigated.",
+        "source": "2025-04-10_GP_Transcript_Police_Gaslighting.txt"
+      },
+      {
+        "quote": "I was a gas lit victim seeking support to be gaslit into killing myself by the Sussex police. I can absolutely prove this.",
+        "source": "2025-04-10_GP_Transcript_Police_Gaslighting.txt"
+      },
+      {
+        "quote": "They did not want the suicide in a case which is declining of mental health, and stated it will only be from November.",
+        "source": "2025-04-10_GP_Transcript_Police_Gaslighting.txt"
+      }
+    ],
+    "accessLevel": "private",
+    "evidenceFileUrl": "#LINK_TO_BE_ADDED_LATER",
+    "evidenceType": "report",
+    "targetModuleId": "evidence-display-document"
+  }
+]

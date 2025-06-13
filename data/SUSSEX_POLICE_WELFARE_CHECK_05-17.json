@@ -1,0 +1,35 @@
+{
+  "id": "SUSSEX_POLICE_WELFARE_CHECK_05-17",
+  "sourceFile": "SUSSEX_POLICE_TURN_UP_UNEXPECTED_17-05-25_17-33_otter_ai.txt",
+  "title": "Unexpected Welfare Check by Sussex Police",
+  "date": "2025-05-17",
+  "summary": "Two Sussex Police officers (Amy EA734 and Sam EA820) conduct an in-person, unannounced welfare check on Ben Carter, citing concern over his demeanor on a phone call the previous day. Ben immediately documents their names and badge numbers. The officers note they have no phone signal at the location.",
+  "quotes": [
+    {
+      "quote": "This is a welfare check on you check if you...",
+      "source": "SUSSEX_POLICE_TURN_UP_UNEXPECTED_17-05-25_17-33_otter_ai.txt"
+    },
+    {
+      "quote": "Okay. What are your names?... What are your badge numbers?",
+      "source": "SUSSEX_POLICE_TURN_UP_UNEXPECTED_17-05-25_17-33_otter_ai.txt"
+    },
+    {
+      "quote": "I can't get signal on my phone here for some reason.",
+      "source": "SUSSEX_POLICE_TURN_UP_UNEXPECTED_17-05-25_17-33_otter_ai.txt"
+    }
+  ],
+  "accessLevel": "private",
+  "vex_tags": ["welfare_check", "police_interaction", "evidence_gathering", "documentation"],
+  "displayPackage": [
+    {
+      "evidenceFileUrl": "#LINK_TO_AUDIO_FILE",
+      "evidenceType": "audio",
+      "targetModuleId": "exhibit-audio"
+    },
+    {
+      "evidenceFileUrl": "#LINK_TO_TRANSCRIPT_PDF",
+      "evidenceType": "pdf",
+      "targetModuleId": "exhibit-document"
+    }
+  ]
+}
